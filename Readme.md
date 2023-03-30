@@ -1,1 +1,1 @@
-# This is Library Management System not Loan management System
+# This is Library Management System
